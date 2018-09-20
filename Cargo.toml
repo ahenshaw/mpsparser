@@ -1,0 +1,7 @@
+[package]
+name = "mpsparser"
+version = "0.1.0"
+authors = ["Andrew Henshaw <andrew@henshaw.us>"]
+
+[dependencies]
+nom = "^4.0.0"
